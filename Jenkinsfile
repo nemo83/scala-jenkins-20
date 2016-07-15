@@ -6,7 +6,7 @@ node {
 
     checkout scm
 
-    print "Master ?"
+    print "BranchTest ?"
 
     print env.BRANCH_NAME
 
